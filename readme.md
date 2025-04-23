@@ -6,7 +6,7 @@ I came up with this feature for my [code editor](//github.com/gushogg-blake/edit
 
 ## Installation
 
-Download this repo somewhere, enable Developer mode in extensions, and click "Load unpacked" and point it to the donwloaded folder.
+Clone the repo and then add `--load-extension=/path/to/ctrl-scroll` to the launcher for Chrome/Brave.
 
 ## Customisation
 
