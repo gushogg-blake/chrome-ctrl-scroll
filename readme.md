@@ -6,7 +6,7 @@ I came up with this feature for my [code editor](//github.com/gushogg-blake/edit
 
 ## Installation
 
-Clone the repo and then add `--load-extension=/path/to/ctrl-scroll` to the launcher for Chrome/Brave.
+Clone the repo and then add `--load-extension=/path/to/chrome-ctrl-scroll` to the launcher for Chrome/Brave.
 
 ## Customisation
 
