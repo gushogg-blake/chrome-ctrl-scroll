@@ -104,8 +104,8 @@ wheel events are triggered on the element the mouse is over,
 so we need to find its nearest scrollable ancestor
 */
 
-function findScrollElement(el, deltaX, deltaY) {
-	for (let node of getLineage(el)) {
+function findScrollElement(target, deltaX, deltaY) {
+	for (let node of getLineage(target)) {
 		if (canScroll(node, getDir(deltaX, deltaY))) {
 			return node;
 		}
